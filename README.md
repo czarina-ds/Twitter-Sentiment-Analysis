@@ -1,6 +1,8 @@
 # Twitter-Sentiment-Analysis
 
 Business Problem
+
+
 We have two options for our role and either is fine.
 Option 1)We started a business where we help technology companies find ways to analyze tweets about their company and products. We have developed a model that helps social media departments filter through tweets that reference their company and/or their products and find potentially negative tweets so that they may then address them.
 Option 2) We are digital brand advisors to the South by Southwest festival and possibly other technological conferences. Our goal in this analysis is to do a proof of concept measure of the effect of the Apple pop up tent on twitter sentiment at the 2011 SXSW festival. In 2011 Apple released the Ipad 2 at the SXSW festival which makes this an ideal situation for analyzing first impressions of a small group of people.
