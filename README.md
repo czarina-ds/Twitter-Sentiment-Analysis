@@ -90,7 +90,7 @@ Please review our full analysis in [our Jupyter Notebook](./final_notebook.ipynb
 For any additional questions, please contact<br />
 **Czarina Luna: aczarinagarcialuna@gmail.com**<br />
 **Marcelo Scatena: marcelo.oddo@gmail.com**<br />
-**Ross McKim: #@gmail.com**<br />
+**Ross McKim: rmckim@gmail.com**<br />
 **Piotr Czolpik: Piotrczo1992@gmail.com**<br />
 
 ## Repository Structure
