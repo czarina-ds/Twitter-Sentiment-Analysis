@@ -1,6 +1,6 @@
 # Twitter Sentment Analysis
 
-![intro_img](./images/logos.jpeg)
+![intro_img](./images/logos.JPG)
 
 **Authors**: Czarina Luna, Marcelo Scatena, Piotr Czolpik, Ross McKim
 
