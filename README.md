@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter Sentment Analysis
 
 ![intro_img](./images/logos.JPG)
