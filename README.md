@@ -65,6 +65,13 @@ explanation of matrix
 
 <img src="./images/google_wordcloud.JPG" alt="drawing" width="600"/>
 
+* We've also created word clouds of positive and negatives sentiments towards Apple and Google, to give us an insight on what people are and are not liking about the companies:
+
+| <img src="./images/apple_negative.JPG" alt="drawing" width="400"/> | <img src="./images/apple_positive.JPG" alt="drawing" width="400"/> |
+|:---:|
+| <img src="./images/google_negative.JPG" alt="drawing" width="400"/> | <img src="./images/google_positive.JPG" alt="drawing" width="400"/> |
+
+
 * Last graph
 
 ![graph7]()
