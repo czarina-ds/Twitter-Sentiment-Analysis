@@ -81,15 +81,23 @@ Explanation of last graph
 
 ## Conclusions
 
-Given all the information we modeled, the recommendations we have are:
+Given our sentiment results, we have the following reccommendations for South by Southwest:
 
-* Reccommendation 1
-  - Explain reccommendation 1.
-* Reccommmendation 2
+* Give brands feedback on their negative sentiments
+  - When a brand has information on what are the products and features people have negative sentiment towards, they can make more targeted research and propose changes to those products. This would give he company a first layer of feedback so they can follow with more research.
+* Use sentiment information to 
   - Explain reccommendation 2.
 * Reccommendation 3
   - Explain reccommendation 3
 ***
+## Next Steps
+
+Following the delivery of our model, we suggest South by Southwest:
+* Conduct sentiment analysis prior and after an event
+  - Gauging sentiment towards a brand or product before and after an event can give the company an estimation on how positive or negative that event was for that brand or product, allowing them to make changes to future events based on these findings.
+* Correlate sentiment analysis with product sales
+*  - Companies can see if sentiment towards a certain product have a correlation with said product sales. If it does, that could give them another tool to predict future sales based on sentiment.
+
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./final_notebook.ipynb) or our [presentation](./final_presentation.pdf).
