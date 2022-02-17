@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Twitter Sentment Analysis
 
 ![intro_img](./images/logos.JPG)
@@ -57,6 +56,15 @@ As far as our evaluation metric goes, we first chose a baseline mode in regards 
 explanation of matrix
 
 * Below we can see Word Clouds of the positive and negative sentiments from the whole dataset, and the ones regarding sentiment towards Apple and Google
+* 
+<img src="./images/positive_wordcloud.JPG" alt="drawing" width="200"/>
+
+<img src="./images/negative_wordcloud.JPG" alt="drawing" width="150"/>
+
+<img src="./images/apple_wordcloud.JPG" alt="drawing" width="100"/>
+
+<img src="./images/google_wordcloud.JPG" alt="drawing" width="50"/>
+
 
 ![graph3](./images/positive_wordcloud.JPG)
 
