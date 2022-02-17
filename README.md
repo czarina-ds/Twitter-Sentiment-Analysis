@@ -61,15 +61,15 @@ explanation of matrix
 
 
 
-<img src="./images/apple_wordcloud.JPG" alt="drawing" height="420"/>  <img src="./images/google_wordcloud.JPG" alt="drawing" height="420"/>
+<img src="./images/apple_wordcloud.JPG" alt="drawing" height="410"/>  <img src="./images/google_wordcloud.JPG" alt="drawing" height="410"/>
 
 
 
 * We've also created word clouds of positive and negatives sentiments towards Apple and Google, to give us an insight on what people are and are not liking about the companies:
 
- <img src="./images/apple_positive.JPG" alt="drawing" height="420"/>  <img src="./images/apple_negative.JPG" alt="drawing" height="420"/> 
+ <img src="./images/apple_positive.JPG" alt="drawing" height="410"/>  <img src="./images/apple_negative.JPG" alt="drawing" height="410"/> 
 
- <img src="./images/google_positive.JPG" alt="drawing" height="450"/>  <img src="./images/google_negative.JPG" alt="drawing" height="450"/> 
+ <img src="./images/google_positive.JPG" alt="drawing" height="430"/>  <img src="./images/google_negative.JPG" alt="drawing" height="430"/> 
 
 
 * Last graph
