@@ -57,22 +57,13 @@ explanation of matrix
 
 * Below we can see Word Clouds of the positive and negative sentiments from the whole dataset, and the ones regarding sentiment towards Apple and Google
 * 
-<img src="./images/positive_wordcloud.JPG" alt="drawing" width="400"/>
+<img src="./images/positive_wordcloud.JPG" alt="drawing" width="600"/>
 
-<img src="./images/negative_wordcloud.JPG" alt="drawing" width="400"/>
+<img src="./images/negative_wordcloud.JPG" alt="drawing" width="600"/>
 
-<img src="./images/apple_wordcloud.JPG" alt="drawing" width="400"/>
+<img src="./images/apple_wordcloud.JPG" alt="drawing" width="600"/>
 
-<img src="./images/google_wordcloud.JPG" alt="drawing" width="400"/>
-
-
-![graph3](./images/positive_wordcloud.JPG)
-
-![graph4](./images/negative_wordcloud.JPG)
-
-![graph5](./images/apple_wordcloud.JPG)
-
-![graph6](./images/google_wordcloud.JPG)
+<img src="./images/google_wordcloud.JPG" alt="drawing" width="600"/>
 
 * Last graph
 
