@@ -45,37 +45,38 @@ As far as our evaluation metric goes, we first chose a baseline mode in regards 
 ***
 ## Results
 
-* Skyler Graph
+* Models performance by accuracy
 
 ![graph1]()
+The overall accuracy of the models doesn't change all that much from the baseline. We managed to accrue and improvement from around 65% in the baseline to 71% in the tuned SGD. We've chosen to use the tuned Extra Trees model though, given it's lower ratio for mislabeling Negative Sentiment as Positive.
 
-* Confusion matrix
+* Confusion Matrix for Extra Tree model
 
 ![graph2]()
-
-explanation of matrix
+Here we have reduced to only around 7% the model mislabeling of Negative Sentiment as Positive ones, and that while maintaining an around 37% correct labeling of Positive Sentiment as Positive, which is another important factor given our reccommendation of retweeting Positive Sentiment tweets.
 
 * Below we can see Word Clouds of the positive and negative sentiments from the whole dataset, and the ones regarding sentiment towards Apple and Google
 
-<img src="./images/positive_wordcloud.JPG" alt="drawing" height="420"/>  <img src="./images/negative_wordcloud.JPG" alt="drawing" height="420"/>
+<img src="./images/positive_wordcloud.JPG" alt="positive cloud" height="410"/>  <img src="./images/negative_wordcloud.JPG" alt="negative cloud" height="410"/>
 
 
 
-<img src="./images/apple_wordcloud.JPG" alt="drawing" height="410"/>  <img src="./images/google_wordcloud.JPG" alt="drawing" height="410"/>
+<img src="./images/apple_wordcloud.JPG" alt="drawing" height="400"/>  <img src="./images/google_wordcloud.JPG" alt="drawing" height="400"/>
 
 
 
 * We've also created word clouds of positive and negatives sentiments towards Apple and Google, to give us an insight on what people are and are not liking about the companies:
 
- <img src="./images/apple_positive.JPG" alt="drawing" height="390"/>  <img src="./images/apple_negative.JPG" alt="drawing" height="390"/> 
+ <img src="./images/apple_positive.JPG" alt="apple positive cloud" height="380"/>  <img src="./images/apple_negative.JPG" alt="apple negative cloud" height="380"/> 
 
- <img src="./images/google_positive.JPG" alt="drawing" height="410"/>  <img src="./images/google_negative.JPG" alt="drawing" height="410"/> 
+ <img src="./images/google_positive.JPG" alt="google positive cloud" height="400"/>  <img src="./images/google_negative.JPG" alt="google negative cloud" height="400"/> 
 
 
-* Last graph
+* Latent Dirichlet Allocation
+We performed LDA to see how it would cluster the data given our specifications. Below you can see the graph with all our data, where Google and Ipad where slected by the lda as our two latent topics, and the words with the highest likelihoods of pointing towards one of those clusters.
 
-![graph7]()
-Explanation of last graph
+<img src="./images/lda.JPG" alt="lda" height="420"/>
+The full notebook on LDA can be found [here](./LDA.ipynb)
 
 ***
 
