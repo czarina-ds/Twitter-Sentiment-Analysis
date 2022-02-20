@@ -84,11 +84,11 @@ Explanation of last graph
 Given our sentiment results, we have the following reccommendations for South by Southwest:
 
 * Give brands feedback on their negative sentiments
-  - When a brand has information on what are the products and features people have negative sentiment towards, they can make more targeted research and propose changes to those products. This would give he company a first layer of feedback so they can follow with more research.
-* Use sentiment information to 
-  - Explain reccommendation 2.
-* Reccommendation 3
-  - Explain reccommendation 3
+  - When a brand has information on what are the products and features people have negative sentiment towards, they can make more targeted research and propose changes to those products. This would give the company a first layer of feedback so they can follow with more research.
+* Retweet positive tweets
+  - The more people positive comments can reach, the better. A team of people retweeting relevant tweets could significantly increase their reach. We'd also suggest prioritizing accounts that have a large amount of followers and are more active online than not.
+* Investigate negative tweets
+  - Are these directed at a specific product? A Brand? A flaw in the organization of the festival? Finding the answers to those questions should open venues for improvement.
 ***
 ## Next Steps
 
@@ -96,7 +96,7 @@ Following the delivery of our model, we suggest South by Southwest:
 * Conduct sentiment analysis prior and after an event
   - Gauging sentiment towards a brand or product before and after an event can give the company an estimation on how positive or negative that event was for that brand or product, allowing them to make changes to future events based on these findings.
 * Correlate sentiment analysis with product sales
-*  - Companies can see if sentiment towards a certain product have a correlation with said product sales. If it does, that could give them another tool to predict future sales based on sentiment.
+  - Companies can see if sentiment towards a certain product have a correlation with said product sales. If it does, that could give them another tool to predict future sales based on sentiment.
 
 ## For More Information
 
