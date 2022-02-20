@@ -47,13 +47,13 @@ As far as our evaluation metric goes, we first chose a baseline mode in regards 
 
 * Models performance by accuracy
 
-![graph1]()
+<img src="./images/skyler_graph.JPG" alt="models performances" height="420"/>
 
 The overall accuracy of the models doesn't change all that much from the baseline. We managed to accrue and improvement from around 65% in the baseline to 71% in the tuned SGD. We've chosen to use the tuned Extra Trees model though, given it's lower ratio for mislabeling Negative Sentiment as Positive.
 
 * Confusion Matrix for Extra Tree model
 
-![graph2]()
+<img src="./images/extra_trees_cm.JPG" alt="confusion matrix for extra trees model" height="420"/>
 
 Here we have reduced to only around 7% the model mislabeling of Negative Sentiment as Positive ones, and that while maintaining an around 37% correct labeling of Positive Sentiment as Positive, which is another important factor given our reccommendation of retweeting Positive Sentiment tweets.
 
