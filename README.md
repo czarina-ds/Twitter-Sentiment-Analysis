@@ -115,11 +115,12 @@ For any additional questions, please contact<br />
 ## Repository Structure
 
 ```
-├── README.md                           
-├── final_notebook.ipynb   
-├── final_presentation.pdf  
+├──────────individual_notebooks ├─ Marcelo_Notebook.ipynb
+├── README.md                   ├─ Czarina_EDA_Modeling.ipynb  
+├── final_notebook.ipynb        ├─ Piotr_Notebook.ipynb
+├── final_presentation.pdf      ├─ Ross_Notebook.ipynb
+├── GridSearchCV.ipynb
 ├── lda.ipynb
 ├── data                                
 └── images                              
 ```
-=======
