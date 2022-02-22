@@ -104,7 +104,7 @@ Following the delivery of our model, we suggest South by Southwest:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./final_notebook.ipynb) or our [presentation](./final_presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./sxsw-sentiment-analysis.ipynb) or our [presentation](./presentation.pdf).
 
 For any additional questions, please contact<br />
 Czarina Luna: [LinkedIn](https://www.linkedin.com/in/czarinaluna/) | Email: czarinagarcialuna@gmail.com<br />
@@ -115,10 +115,10 @@ Piotr Czolpik: [LinkedIn](https://www.linkedin.com/in/piotr-czolpik-803119111) |
 ## Repository Structure
 
 ```
-├──────────individual_notebooks ├─ Marcelo_Notebook.ipynb
-├── README.md                   ├─ Czarina_EDA_Modeling.ipynb  
-├── final_notebook.ipynb        ├─ Piotr_Notebook.ipynb
-├── final_presentation.pdf      ├─ Ross_Notebook.ipynb
+├── individual_notebooks ─────────├─ Marcelo_Notebook.ipynb
+├── README.md                     ├─ Czarina_EDA_Modeling.ipynb  
+├── sxsw-sentiment-analysis.ipynb ├─ Piotr_Notebook.ipynb
+├── presentation.pdf              ├─ Ross_Notebook.ipynb
 ├── GridSearchCV.ipynb
 ├── Clustering.ipynb
 ├── lda.ipynb
