@@ -107,10 +107,10 @@ Following the delivery of our model, we suggest South by Southwest:
 Please review our full analysis in [our Jupyter Notebook](./final_notebook.ipynb) or our [presentation](./final_presentation.pdf).
 
 For any additional questions, please contact<br />
-**Czarina Luna: aczarinagarcialuna@gmail.com**<br />
-**Marcelo Scatena: marcelo.oddo@gmail.com**<br />
-**Ross McKim: rmckim@gmail.com**<br />
-**Piotr Czolpik: Piotrczo1992@gmail.com**<br />
+Czarina Luna: [LinkedIn](https://www.linkedin.com/in/czarinaluna/) | Email: czarinagarcialuna@gmail.com<br />
+Marcelo Scatena: [LinkedIn](https://uk.linkedin.com/in/marcelo-scatena) | Email: marcelo.oddo@gmail.com<br />
+Ross McKim: [LinkedIn](https://www.linkedin.com/in/ross-mckim) | Email: rmckim@gmail.com<br />
+Piotr Czolpik: [LinkedIn](https://www.linkedin.com/in/piotr-czolpik-803119111) | Email: Piotrczo1992@gmail.com<br />
 
 ## Repository Structure
 
@@ -120,6 +120,7 @@ For any additional questions, please contact<br />
 ├── final_notebook.ipynb        ├─ Piotr_Notebook.ipynb
 ├── final_presentation.pdf      ├─ Ross_Notebook.ipynb
 ├── GridSearchCV.ipynb
+├── Clustering.ipynb
 ├── lda.ipynb
 ├── data                                
 └── images                              
